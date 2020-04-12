@@ -1,4 +1,4 @@
-to see play 
+to see play https://nickmartello.github.io/ColorGame/
 
 # Color Guessing Game
 
